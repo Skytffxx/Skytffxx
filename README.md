@@ -24,9 +24,9 @@ Here are some of my notable projects:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Skytffxx&show_icons=true&theme=radical)
 
 ## Get in Touch
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [Your LinkedIn](link)
-- 🌐 Website: [Your Website](link)
+- 📧 Email: blockf77@gmail.com
+- 💼 LinkedIn: [Your LinkedIn](soon)
+- 🌐 Website: [Your Website](soon)
 
 ## Let's Connect
 Feel free to reach out if you'd like to collaborate on projects or just chat about tech!
