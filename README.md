@@ -25,8 +25,8 @@ Here are some of my notable projects:
 
 ## Get in Touch
 - 📧 Email: blockf77@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](soon)
-- 🌐 Website: [Your Website](soon)
+- 💼 LinkedIn: [soon](soon)
+- 🌐 Website: [soon](soon)
 
 ## Let's Connect
 Feel free to reach out if you'd like to collaborate on projects or just chat about tech!
